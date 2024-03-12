@@ -9,6 +9,7 @@ The Dataset is a clean dataset of 236,378 survey responses to the CDC's Behavior
 
 
 ABOUT THE ANALYSIS
+
 The Analysis is presented in four pages:
 
 Overview:
@@ -20,7 +21,7 @@ The 2nd page measures the correlation between socio-economic factors like income
 Other Contributing Factors:
 This page measures correlation of diabetes to other factors, bot.h behavioral and health related like bmi, blood pressure, smoking, drinking etc.
 
-Health Risks
+Health Risks:
 The fourth page explores the health risks associated with Diabetes. We measure the increased risk of heart disease, stroke and impact on physical health for diabetics.
 
 
